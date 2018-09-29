@@ -1,0 +1,104 @@
+.wrap{
+  width: 65%;
+  text-align:center;
+  margin: 0px auto;
+  }
+
+.wrap img{
+  width: 100%;
+  height: auto;
+}
+
+.wrap-cover{
+  width: 100%;
+  height: 500px;
+  background: #fff;
+  position: relative;
+  background: url('../img/pj01-main.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.wrap-cover2{
+  width: 100%;
+  height: 500px;
+  background: #fff;
+  position: relative;
+  background: url('../img/pj02-main.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.wrap-cover3{
+  width: 100%;
+  height: 500px;
+  background: #fff;
+  position: relative;
+  background: url('../img/pj03-main.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.wrap-cover-text{
+padding-left: 23%;
+padding-top: 5%;
+}
+
+.wrap-cover-area{
+  padding-left: 23%;
+  padding-right: 23%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+/* 센치 */
+.wrap-text01{
+  color: white;
+  font-size: 20pt;
+  line-height: 2;
+  font-weight: 600;
+}
+
+.wrap-text02{
+  color: white;
+  font-size: 14pt;
+}
+/* 컬러 */
+.wrap-text03{
+  color: #666666;
+  font-size: 20pt;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.wrap-text04{
+  color: #666666;
+  font-size: 12pt;
+  line-height: 1.5;
+}
+/* 컬러 */
+.wrap-text05{
+  color: #91755a;
+  font-size: 20pt;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.wrap-text06{
+  color: #91755a;
+  font-size: 12pt;
+  line-height: 1.5;
+}
+
+.view-full{
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-size: 15pt;
+  font-weight: 600;
+  text-align: center;
+  color:#808080;
+
+}
